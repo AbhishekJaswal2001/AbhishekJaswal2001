@@ -18,7 +18,7 @@
     <code><img height="40" src="https://cdn.worldvectorlogo.com/logos/oracle-2.svg"></code>
     <br><br>
     <br>
-    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kritikakaura1518&show_icons=true&theme=gotham" alt="Kritika | Stats" />
+    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekJaswal2001&show_icons=true&theme=gotham" alt="Kritika | Stats" />
   <br>
   <br>
   
